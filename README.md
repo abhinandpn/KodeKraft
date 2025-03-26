@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```markdown
 # KodeKraft
 
@@ -155,3 +156,6 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 
 For support, contact [yourname@example.com](mailto:yourname@example.com).
 ```
+=======
+# KodeKraft
+>>>>>>> 685fd0f (Initial commit with README)
